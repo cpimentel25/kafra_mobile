@@ -1,0 +1,17 @@
+export const colors = {
+  primary: "#F31559",
+  secundary: "#FE7A36",
+  bg_primary: "#272829",
+  bg_secundary: "#31363F",
+  bg_info: "#1D1919",
+  text: "#F4EEE0",
+  placeholderText: "#B2B2B2",
+  positive: "#9BCF53",
+  negative: "#F05454",
+  alert: "#DA0037",
+  success: "#3652AD",
+  white: "#EEEEEE",
+  black: "#222831",
+  bg_display: "#FFF5E0",
+  text_display: "#4B527E",
+};

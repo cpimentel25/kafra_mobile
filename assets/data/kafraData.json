@@ -1,0 +1,710 @@
+[
+  {
+    "Value": -50,
+    "Date": "2021-05-10",
+    "Owner": "032586CAPG",
+    "Category": "Home"
+  },
+  {
+    "Value": 75,
+    "Date": "2021-06-20",
+    "Owner": "081294TAR",
+    "Category": "Shopping"
+  },
+  {
+    "Value": 25,
+    "Date": "2021-07-15",
+    "Owner": "032586CAPG",
+    "Category": "Services"
+  },
+  {
+    "Value": 0,
+    "Date": "2021-08-05",
+    "Owner": "081294TAR",
+    "Category": "Grocery"
+  },
+  {
+    "Value": 100,
+    "Date": "2021-09-30",
+    "Owner": "032586CAPG",
+    "Category": "Bills"
+  },
+  {
+    "Value": -25,
+    "Date": "2021-10-25",
+    "Owner": "081294TAR",
+    "Category": "Home"
+  },
+  {
+    "Value": 50,
+    "Date": "2021-11-15",
+    "Owner": "032586CAPG",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -75,
+    "Date": "2021-12-05",
+    "Owner": "081294TAR",
+    "Category": "Services"
+  },
+  {
+    "Value": -100,
+    "Date": "2022-01-01",
+    "Owner": "032586CAPG",
+    "Category": "Grocery"
+  },
+  {
+    "Value": 75,
+    "Date": "2022-02-20",
+    "Owner": "081294TAR",
+    "Category": "Bills"
+  },
+  {
+    "Value": 25,
+    "Date": "2022-03-15",
+    "Owner": "032586CAPG",
+    "Category": "Home"
+  },
+  {
+    "Value": 0,
+    "Date": "2022-04-10",
+    "Owner": "081294TAR",
+    "Category": "Shopping"
+  },
+  {
+    "Value": 100,
+    "Date": "2022-05-30",
+    "Owner": "032586CAPG",
+    "Category": "Services"
+  },
+  {
+    "Value": -50,
+    "Date": "2022-06-25",
+    "Owner": "081294TAR",
+    "Category": "Grocery"
+  },
+  {
+    "Value": 50,
+    "Date": "2022-07-15",
+    "Owner": "032586CAPG",
+    "Category": "Bills"
+  },
+  {
+    "Value": -100,
+    "Date": "2022-08-10",
+    "Owner": "081294TAR",
+    "Category": "Home"
+  },
+  {
+    "Value": 25,
+    "Date": "2022-09-05",
+    "Owner": "032586CAPG",
+    "Category": "Shopping"
+  },
+  {
+    "Value": 0,
+    "Date": "2022-10-30",
+    "Owner": "081294TAR",
+    "Category": "Services"
+  },
+  {
+    "Value": 100,
+    "Date": "2022-11-25",
+    "Owner": "032586CAPG",
+    "Category": "Grocery"
+  },
+  {
+    "Value": -75,
+    "Date": "2022-12-20",
+    "Owner": "081294TAR",
+    "Category": "Bills"
+  },
+  {
+    "Value": 75,
+    "Date": "2023-01-15",
+    "Owner": "032586CAPG",
+    "Category": "Home"
+  },
+  {
+    "Value": -25,
+    "Date": "2023-02-10",
+    "Owner": "081294TAR",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -50,
+    "Date": "2023-03-30",
+    "Owner": "032586CAPG",
+    "Category": "Services"
+  },
+  {
+    "Value": 100,
+    "Date": "2023-04-25",
+    "Owner": "081294TAR",
+    "Category": "Grocery"
+  },
+  {
+    "Value": 0,
+    "Date": "2023-05-20",
+    "Owner": "032586CAPG",
+    "Category": "Bills"
+  },
+  {
+    "Value": 25,
+    "Date": "2023-06-15",
+    "Owner": "081294TAR",
+    "Category": "Home"
+  },
+  {
+    "Value": -100,
+    "Date": "2023-07-10",
+    "Owner": "032586CAPG",
+    "Category": "Shopping"
+  },
+  {
+    "Value": 50,
+    "Date": "2023-08-30",
+    "Owner": "081294TAR",
+    "Category": "Services"
+  },
+  {
+    "Value": 75,
+    "Date": "2023-09-25",
+    "Owner": "032586CAPG",
+    "Category": "Grocery"
+  },
+  {
+    "Value": -75,
+    "Date": "2023-10-20",
+    "Owner": "081294TAR",
+    "Category": "Bills"
+  },
+  {
+    "Value": 0,
+    "Date": "2023-11-15",
+    "Owner": "032586CAPG",
+    "Category": "Home"
+  },
+  {
+    "Value": 100,
+    "Date": "2023-12-10",
+    "Owner": "081294TAR",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -50,
+    "Date": "2024-01-30",
+    "Owner": "032586CAPG",
+    "Category": "Services"
+  },
+  {
+    "Value": 25,
+    "Date": "2024-02-25",
+    "Owner": "081294TAR",
+    "Category": "Grocery"
+  },
+  {
+    "Value": -100,
+    "Date": "2024-03-20",
+    "Owner": "032586CAPG",
+    "Category": "Bills"
+  },
+  {
+    "Value": 75,
+    "Date": "2024-04-15",
+    "Owner": "081294TAR",
+    "Category": "Home"
+  },
+  {
+    "Value": 0,
+    "Date": "2024-05-10",
+    "Owner": "032586CAPG",
+    "Category": "Shopping"
+  },
+  {
+    "Value": 50,
+    "Date": "2024-06-05",
+    "Owner": "081294TAR",
+    "Category": "Services"
+  },
+  {
+    "Value": 100,
+    "Date": "2024-07-01",
+    "Owner": "032586CAPG",
+    "Category": "Grocery"
+  },
+  {
+    "Value": 50,
+    "Date": "2022-01-01",
+    "Owner": "032586CAPG",
+    "Category": "Home"
+  },
+  {
+    "Value": -25,
+    "Date": "2022-01-02",
+    "Owner": "081294TAR",
+    "Category": "Grocery"
+  },
+  {
+    "Value": 75,
+    "Date": "2022-01-03",
+    "Owner": "032586CAPG",
+    "Category": "Services"
+  },
+  {
+    "Value": 10,
+    "Date": "2022-01-04",
+    "Owner": "081294TAR",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -50,
+    "Date": "2022-01-05",
+    "Owner": "032586CAPG",
+    "Category": "Bills"
+  },
+  {
+    "Value": 100,
+    "Date": "2022-01-06",
+    "Owner": "081294TAR",
+    "Category": "Home"
+  },
+  {
+    "Value": -75,
+    "Date": "2022-01-07",
+    "Owner": "032586CAPG",
+    "Category": "Grocery"
+  },
+  {
+    "Value": 25,
+    "Date": "2022-01-08",
+    "Owner": "081294TAR",
+    "Category": "Services"
+  },
+  {
+    "Value": 60,
+    "Date": "2022-01-09",
+    "Owner": "032586CAPG",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -80,
+    "Date": "2022-01-10",
+    "Owner": "081294TAR",
+    "Category": "Bills"
+  },
+  {
+    "Value": 90,
+    "Date": "2022-01-11",
+    "Owner": "032586CAPG",
+    "Category": "Home"
+  },
+  {
+    "Value": -10,
+    "Date": "2022-01-12",
+    "Owner": "081294TAR",
+    "Category": "Grocery"
+  },
+  {
+    "Value": 40,
+    "Date": "2022-01-13",
+    "Owner": "032586CAPG",
+    "Category": "Services"
+  },
+  {
+    "Value": -30,
+    "Date": "2022-01-14",
+    "Owner": "081294TAR",
+    "Category": "Shopping"
+  },
+  {
+    "Value": 70,
+    "Date": "2022-01-15",
+    "Owner": "032586CAPG",
+    "Category": "Bills"
+  },
+  {
+    "Value": -20,
+    "Date": "2022-01-16",
+    "Owner": "081294TAR",
+    "Category": "Home"
+  },
+  {
+    "Value": 55,
+    "Date": "2022-01-17",
+    "Owner": "032586CAPG",
+    "Category": "Grocery"
+  },
+  {
+    "Value": -5,
+    "Date": "2022-01-18",
+    "Owner": "081294TAR",
+    "Category": "Services"
+  },
+  {
+    "Value": 65,
+    "Date": "2022-01-19",
+    "Owner": "032586CAPG",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -45,
+    "Date": "2022-01-20",
+    "Owner": "081294TAR",
+    "Category": "Bills"
+  },
+  {
+    "Value": 80,
+    "Date": "2022-01-21",
+    "Owner": "032586CAPG",
+    "Category": "Home"
+  },
+  {
+    "Value": -15,
+    "Date": "2022-01-22",
+    "Owner": "081294TAR",
+    "Category": "Grocery"
+  },
+  {
+    "Value": 35,
+    "Date": "2022-01-23",
+    "Owner": "032586CAPG",
+    "Category": "Services"
+  },
+  {
+    "Value": -35,
+    "Date": "2022-01-24",
+    "Owner": "081294TAR",
+    "Category": "Shopping"
+  },
+  {
+    "Value": 85,
+    "Date": "2022-01-25",
+    "Owner": "032586CAPG",
+    "Category": "Bills"
+  },
+  {
+    "Value": -30,
+    "Date": "2022-01-26",
+    "Owner": "081294TAR",
+    "Category": "Home"
+  },
+  {
+    "Value": 60,
+    "Date": "2022-01-27",
+    "Owner": "032586CAPG",
+    "Category": "Grocery"
+  },
+  {
+    "Value": -10,
+    "Date": "2022-01-28",
+    "Owner": "081294TAR",
+    "Category": "Services"
+  },
+  {
+    "Value": 50,
+    "Date": "2022-01-29",
+    "Owner": "032586CAPG",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -60,
+    "Date": "2022-01-30",
+    "Owner": "081294TAR",
+    "Category": "Bills"
+  },
+  {
+    "Value": 95,
+    "Date": "2022-01-31",
+    "Owner": "032586CAPG",
+    "Category": "Home"
+  },
+  {
+    "Value": -5,
+    "Date": "2022-02-01",
+    "Owner": "081294TAR",
+    "Category": "Grocery"
+  },
+  {
+    "Value": 45,
+    "Date": "2022-02-02",
+    "Owner": "032586CAPG",
+    "Category": "Services"
+  },
+  {
+    "Value": -40,
+    "Date": "2022-02-03",
+    "Owner": "081294TAR",
+    "Category": "Shopping"
+  },
+  {
+    "Value": 75,
+    "Date": "2022-02-04",
+    "Owner": "032586CAPG",
+    "Category": "Bills"
+  },
+  {
+    "Value": -25,
+    "Date": "2022-02-05",
+    "Owner": "081294TAR",
+    "Category": "Home"
+  },
+  {
+    "Value": 70,
+    "Date": "2022-02-06",
+    "Owner": "032586CAPG",
+    "Category": "Grocery"
+  },
+  {
+    "Value": -15,
+    "Date": "2022-02-07",
+    "Owner": "081294TAR",
+    "Category": "Services"
+  },
+  {
+    "Value": 55,
+    "Date": "2022-02-08",
+    "Owner": "032586CAPG",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -50,
+    "Date": "2022-02-09",
+    "Owner": "081294TAR",
+    "Category": "Bills"
+  },
+  {
+    "Value": 50,
+    "Date": "2022-01-01",
+    "Owner": "032586CAPG",
+    "Category": "Home"
+  },
+  {
+    "Value": -25,
+    "Date": "2022-01-02",
+    "Owner": "081294TAR",
+    "Category": "Grosery"
+  },
+  {
+    "Value": 75,
+    "Date": "2022-01-03",
+    "Owner": "032586CAPG",
+    "Category": "Services"
+  },
+  {
+    "Value": 10,
+    "Date": "2022-01-04",
+    "Owner": "081294TAR",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -50,
+    "Date": "2022-01-05",
+    "Owner": "032586CAPG",
+    "Category": "Bills"
+  },
+  {
+    "Value": 90,
+    "Date": "2022-01-06",
+    "Owner": "081294TAR",
+    "Category": "Home"
+  },
+  {
+    "Value": -30,
+    "Date": "2022-01-07",
+    "Owner": "032586CAPG",
+    "Category": "Grosery"
+  },
+  {
+    "Value": 100,
+    "Date": "2022-01-08",
+    "Owner": "081294TAR",
+    "Category": "Services"
+  },
+  {
+    "Value": 20,
+    "Date": "2022-01-09",
+    "Owner": "032586CAPG",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -75,
+    "Date": "2022-01-10",
+    "Owner": "081294TAR",
+    "Category": "Bills"
+  },
+  {
+    "Value": 80,
+    "Date": "2022-01-11",
+    "Owner": "032586CAPG",
+    "Category": "Home"
+  },
+  {
+    "Value": -20,
+    "Date": "2022-01-12",
+    "Owner": "081294TAR",
+    "Category": "Grosery"
+  },
+  {
+    "Value": 60,
+    "Date": "2022-01-13",
+    "Owner": "032586CAPG",
+    "Category": "Services"
+  },
+  {
+    "Value": 30,
+    "Date": "2022-01-14",
+    "Owner": "081294TAR",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -80,
+    "Date": "2022-01-15",
+    "Owner": "032586CAPG",
+    "Category": "Bills"
+  },
+  {
+    "Value": 70,
+    "Date": "2022-01-16",
+    "Owner": "081294TAR",
+    "Category": "Home"
+  },
+  {
+    "Value": -10,
+    "Date": "2022-01-17",
+    "Owner": "032586CAPG",
+    "Category": "Grosery"
+  },
+  {
+    "Value": 50,
+    "Date": "2022-01-18",
+    "Owner": "081294TAR",
+    "Category": "Services"
+  },
+  {
+    "Value": 40,
+    "Date": "2022-01-19",
+    "Owner": "032586CAPG",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -90,
+    "Date": "2022-01-20",
+    "Owner": "081294TAR",
+    "Category": "Bills"
+  },
+  {
+    "Value": 60,
+    "Date": "2022-01-21",
+    "Owner": "032586CAPG",
+    "Category": "Home"
+  },
+  {
+    "Value": -30,
+    "Date": "2022-01-22",
+    "Owner": "081294TAR",
+    "Category": "Grosery"
+  },
+  {
+    "Value": 80,
+    "Date": "2022-01-23",
+    "Owner": "032586CAPG",
+    "Category": "Services"
+  },
+  {
+    "Value": 50,
+    "Date": "2022-01-24",
+    "Owner": "081294TAR",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -100,
+    "Date": "2022-01-25",
+    "Owner": "032586CAPG",
+    "Category": "Bills"
+  },
+  {
+    "Value": 90,
+    "Date": "2022-01-26",
+    "Owner": "081294TAR",
+    "Category": "Home"
+  },
+  {
+    "Value": -20,
+    "Date": "2022-01-27",
+    "Owner": "032586CAPG",
+    "Category": "Grosery"
+  },
+  {
+    "Value": 70,
+    "Date": "2022-01-28",
+    "Owner": "081294TAR",
+    "Category": "Services"
+  },
+  {
+    "Value": 60,
+    "Date": "2022-01-29",
+    "Owner": "032586CAPG",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -75,
+    "Date": "2022-01-30",
+    "Owner": "081294TAR",
+    "Category": "Bills"
+  },
+  {
+    "Value": 80,
+    "Date": "2022-01-31",
+    "Owner": "032586CAPG",
+    "Category": "Home"
+  },
+  {
+    "Value": -10,
+    "Date": "2022-02-01",
+    "Owner": "081294TAR",
+    "Category": "Grosery"
+  },
+  {
+    "Value": 50,
+    "Date": "2022-02-02",
+    "Owner": "032586CAPG",
+    "Category": "Services"
+  },
+  {
+    "Value": 40,
+    "Date": "2022-02-03",
+    "Owner": "081294TAR",
+    "Category": "Shopping"
+  },
+  {
+    "Value": -80,
+    "Date": "2022-02-04",
+    "Owner": "032586CAPG",
+    "Category": "Bills"
+  },
+  {
+    "Value": 70,
+    "Date": "2022-02-05",
+    "Owner": "081294TAR",
+    "Category": "Home"
+  },
+  {
+    "Value": -30,
+    "Date": "2022-02-06",
+    "Owner": "032586CAPG",
+    "Category": "Grosery"
+  },
+  {
+    "Value": 80,
+    "Date": "2022-02-07",
+    "Owner": "081294TAR",
+    "Category": "Services"
+  },
+  {
+    "Value": 50,
+    "Date": "2022-02-08",
+    "Owner": "032586CAPG",
+    "Category": "Shopping"
+  }
+]
